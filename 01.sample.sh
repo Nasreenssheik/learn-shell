@@ -1,4 +1,4 @@
-yum install nginx -y
-echo -e "\e[31m Nginx Server Installed\e[0m"
-systemctl start nginx
-echo Nginx server started
+#commment
+echo this echo command is used to print the message
+yum install ngin -y > /tmp/roboshop.log
+echo -e "\e[31m Installed nginx\e[0m"
